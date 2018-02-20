@@ -1,8 +1,8 @@
-Princeton Algorithms - 1 Assignments
+Princeton Algorithms course Assignments
 by [qmau](https://qmau.me/)
 ================================
 
-Courses site:
+Course site:
 - [Algorithms - 1](https://www.coursera.org/learn/introduction-to-algorithms) by Kevin Wayne, Robert Sedgewick.
 
 ## Part I
