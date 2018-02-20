@@ -1,5 +1,5 @@
 Algorithms, Part I
-Assignments by [qmau](https://qmau.me/)
+assignments by [qmau](https://qmau.me/)
 ================================
 
 ## Course site:
