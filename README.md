@@ -7,7 +7,7 @@ assignments by [qmau](https://qmau.me/)
 
 ## Course
  1. Percolation (Union-find) - Score: **89%**
- 2. Randomized Queues and Deques (Queue and Stack) - Score: **0%**
+ 2. Randomized Queues and Deques (Queue and Stack) - Score: **96%**
  3. Pattern Recognition (Sort) - Score: **0%**
  4. 8 Puzzle (Priority Queues) - **0%**
  5. Kd-Tree (Balanced Search Trees) - **0%**
